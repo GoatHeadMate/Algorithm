@@ -8,13 +8,6 @@ package com.GoatHeadMate.Array;
  */
 public class t704 {
 
-    public static void main(String[] args) {
-        int[] nums={-1,0,3,5,9,12};
-        int index=search(nums,9);
-        System.out.println(index);
-    }
-
-
     public static int search(int[] nums, int target) {
         if(nums == null || nums.length == 0){
             return -1;
