@@ -1,9 +1,9 @@
-package com.GoatHeadMate.Top100;
+package com.GoatHeadMate.leetcode;
 
 /**
  * Author: GoatHead Mate
- * DATA: 2024/11/6-11-06-下午3:33
- * Description: com.GoatHeadMate.Top100
+ * DATA: 2025/1/14-01-14-下午4:16
+ * Description: com.GoatHeadMate.leetcode
  * Version: 1.0
  */
 public class t1 {
