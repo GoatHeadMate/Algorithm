@@ -1,4 +1,4 @@
-package com.GoatHeadMate.leetcode;
+package com.GoatHeadMate.leetcode.hashtable;
 
 /**
  * Author: GoatHead Mate
